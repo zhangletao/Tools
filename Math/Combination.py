@@ -10,10 +10,10 @@ Functions:
     CombinationMethods
         This function allows you to easily get all the methods of combination.
     Demo
-    This function is a demo of all functions and classes in this module.
+        This function is a demo of all functions and classes in this module.
 """
 
-from Arrange import Arrange as Ar
+from Tools.Math.Arrange import Arrange as Ar
 from itertools import combinations as c
 
 
